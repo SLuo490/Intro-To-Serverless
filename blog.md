@@ -2,6 +2,8 @@
 
 ## About Me
 
+My name is Shi Tao, I am currently a Senior at Hunter College majoring in Computer Science. 
+
 ## The Premise
 
 ## Tools used
