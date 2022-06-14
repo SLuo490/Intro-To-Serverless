@@ -4,7 +4,7 @@ module.exports = async function (context, req) {
   context.log("JavaScript HTTP trigger function processed a request.");
 
   const english = req.query.plaintext;
-  let code = "";
+  var code = "";
 
   if (typeof english === "undefined" || english === "") {
     code = "Please enter some text to convert!";
